@@ -61,7 +61,7 @@ export default function App() {
   console.log(`[🦊 App.component]: renderizando App`);
   return (
     <Card>
-      <Info>⚛️ React</Info>
+      <Info>⚛️ React (click sobre la imagen)</Info>
       <Image />
     </Card>
   );
@@ -93,6 +93,7 @@ function Image() {
       <img
         onClick={() => {
           const tkImg = list.find((o) => o.id !== imgValue.id) as any;
+          console.log(``);
           console.log(`[🐤 Image.click]: Evento click `);
           setImgValue(tkImg);
         }}
