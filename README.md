@@ -5,7 +5,7 @@ Este proyecto formará parte de una serie de charlas y conferencias que se está
 
 [![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/leifermendez/react-example-01)
 
-![image](https://i.imgur.com/gyRC9sy.png)
+![qwik-vs-react](https://user-images.githubusercontent.com/15802366/208319155-e1c33b9c-9748-4850-9fed-5802fe213b3e.gif)
 
 > Forma parte de este proyecto.
 
